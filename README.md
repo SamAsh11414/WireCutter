@@ -2,7 +2,7 @@
  A simple Dos panel made in python.
 
  Use is very simple, just follow: 
- Run "Dos.py" in a IDE and input the needed information. Use is very simple.
+ Run "Dos.py" in an IDE and input the needed information. Use is very simple.
 
  This is to be used ONLY LOCALLY
 
