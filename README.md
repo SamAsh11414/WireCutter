@@ -6,7 +6,7 @@
 
  This is to be used ONLY LOCALLY
 
- Extentions: pip3 requests extention:
+ Extentions: pip3 requests
  
  To install, input this into a shell/command prompt:
 
