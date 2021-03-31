@@ -8,6 +8,8 @@
 
  Extentions:
  
+ Requests
+ 
  To install the extentions, input this into a shell/command prompt:
 
  - OSX/Linux: pip3 install requests 
