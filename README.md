@@ -6,9 +6,9 @@
 
  This is to be used ONLY LOCALLY
 
- Extentions: pip3 requests
+ Extentions:
  
- To install, input this into a shell/command prompt:
+ To install the extentions, input this into a shell/command prompt:
 
  - OSX/Linux: pip3 install requests 
  - Windows: pip install requests/ pip3 install requests
